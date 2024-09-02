@@ -26,13 +26,13 @@ pip install SpeechRecognition transformers pyt2s
 
 1. **Clone the repository** (if applicable):
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/AlyMSD/AILiveTranslateNLLB.git
+   cd AILiveTranslateNLLB
    ```
 
 2. **Run the program**:
    ```bash
-   python your_program.py
+   python app.py
    ```
 
 3. **Speak into the microphone**: The program will listen for your speech, recognize it, and then translate the recognized text into French or another specified language.
